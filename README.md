@@ -79,7 +79,7 @@ A part-time job project to verify Grab and Shopee Food orders against a POS syst
 ## 📫 Contact
 
 - **Location:** Da Lat, Lam Dong, Vietnam
-- **Email:** nguyenvanminhhai2002@gmail.com
+- **Email:** hainvm2002@gmail.com
 - **Phone:** +84 865 781 933
 - **Social:** [GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/) | [Twitter](https://twitter.com/)
 
